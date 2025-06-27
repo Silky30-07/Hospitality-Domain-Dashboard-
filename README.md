@@ -35,4 +35,5 @@ Donut chart
 
 
 ## Screenshot of Dashboard
+
 https://github.com/Silky30-07/Hospitality-Domain-Dashboard-/blob/main/Screenshot%20of%20Dashboard.png
