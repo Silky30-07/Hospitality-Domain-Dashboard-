@@ -6,4 +6,5 @@ To empower ABC Grands Ltd—a 20-year, India-based luxury hotel chain—by estab
 https://github.com/Silky30-07/Hospitality-Domain-Dashboard-/blob/main/ABC%20Grands%20Ltd.%20Hotels.xlsx
 ## tools used in the project 
 Excel - to get the raw data 
+
 PowerBi - to perform power query editor , building dashboard
