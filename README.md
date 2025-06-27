@@ -7,7 +7,11 @@ https://github.com/Silky30-07/Hospitality-Domain-Dashboard-/blob/main/ABC%20Gran
 
 ## Tech stack 
 The dashboard was built by using following tools and technologies :
-•	Excel – to get raw data details
-•	Power Query – data transformation and cleaning layers for reshaping and preparing the data 
-•	DAX (Data Analysis Expressions) – used for calculated measures , dynamic visuals and conditional logics 
+
+•	Excel – to get raw data details.
+
+•	Power Query – data transformation and cleaning layers for reshaping and preparing the data.
+
+•	DAX (Data Analysis Expressions) – used for calculated measures , dynamic visuals and conditional logics .
+
 •	Data Modeling – relationships established among different tables.
