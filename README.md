@@ -31,3 +31,8 @@ Slicers
 Donut chart
 
 •	Business impact and insights -  With the created dashboard , revenue team of ABC. Grands Ltd. were able to gain insight about their revenue trend . This could help in regaining their revenue and market share by 20% in the next month .
+
+
+
+## Screenshot of Dashboard
+
